@@ -1,1 +1,1 @@
-# deeplearning_nanodegree
+# Deep learning toy examples (Udacity nanodegree)
